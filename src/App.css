@@ -1,0 +1,25 @@
+#root {
+  background-color: #ffffff;
+}
+
+.fa-brands {
+  font-size: 1.5rem;
+  color: #222222;
+  margin-left: 1rem;
+}
+
+.title-banner {
+  padding-left: 115px;
+}
+
+.title {
+  /* font-size: 300px; */
+  font-family: 'Mouldy Cheese', cursive;
+  color: #222222;
+}
+
+.title-sub {
+  font-size: 24px;
+  font-family: var(--text-font);
+  color: #222222;
+}

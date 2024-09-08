@@ -1,0 +1,13 @@
+.custom-line {
+  border: none;         /* Remove default border */
+  height: 1px;          /* Adjust the height (thickness) of the line */
+  background-color: #000000; /* Set the color of the line (white in this case) */
+  margin: 20px 0;       /* Add margin for spacing between content */
+  margin-inline: 30px;
+}
+
+.copyright {
+  font-size: 12px;
+  font-family: var(--text-font);
+  color: #222222;
+}
